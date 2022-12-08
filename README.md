@@ -26,5 +26,5 @@
 12. Открываем свой терминал пишем bash
 
 Дополнительнно
-Шрифт (для отображения иконок): https://www.nerdfonts.com/
-Терминал: https://www.microsoft.com/store/apps/9n0dx20hk701
+Шрифт (для отображения иконок): https://www.nerdfonts.com/  
+Терминал: https://www.microsoft.com/store/apps/9n0dx20hk701  
